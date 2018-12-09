@@ -28,7 +28,7 @@ Now login to the regular consumer portal, and in the hamburger menu there will b
 
 1. Select the Developer option.
 2. Select **Create New**.
-3. Give your app a name (it appears to need to be unique across all users, as I tried 'home-assistant' and it said it was already in use. Try <yournameoralias>-home-assistant) and a summary (neither of these are important as they are not used anywhere).
+3. Give your app a name (it appears to need to be unique across all users, as I tried 'home-assistant' and it said it was already in use. Try *yournameoralias*-home-assistant) and a summary (neither of these are important as they are not used anywhere).
 4. For Authorization method select **ecobee PIN**.
 5. You don't need an Application Icon or Detailed Description.
 6. Click **Create**.
